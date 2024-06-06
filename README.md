@@ -1,5 +1,12 @@
-## Hi there 👋
+## Welcome! 👋
 
+## I am an Apple-NACME AI/ML Intensive bootcamp participant!
+
+I recently graduated from FIU with a B.S. Mechanical Engineering
+
+🤔I am working on assignments to get familiar with python and swift for software engineering and machine learning. I will also use this github to work through OSSU before pursuing an M.S. Computer Science
+
+😄 My favorite hobby is virtual reality on my Oculus Quest headset. It helps me stay connected with friends and my girlfriend when I travel for activities such as the aforementioned bootcamp
 <!--
 **Edrop7/Edrop7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
